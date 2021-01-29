@@ -1,6 +1,6 @@
 <img src="./hello-world-banner.png">
 
-## Hello World
+## Hi, I'm Ying Guo! Welcome to my Github!
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ying-guo-07219653/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guoguoying2013@gmail.com)
 
