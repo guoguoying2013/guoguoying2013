@@ -1,9 +1,6 @@
 ### Hello World
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ying-guo-07219653/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guoguoying2013@gmail.com)
-<!--
-**guoguoying2013/guoguoying2013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Header](https://github.com/guoguoying2013/githubBanner.png "Header")
 
 ```javascript
 const yingGuo = {
@@ -20,8 +17,13 @@ const yingGuo = {
         testing: ["Jest", "Enzyme", "K6", "Loader.IO", "New Relic"],
         databases: ["MySQL", "PostgreSQL", "MongoDB", "Arango", "Redis"],
     },
- interests: ["Hiking🌱 ", "Frisbee", "Volunteer", "Baking", "A Big Foodie😄 ", "Hackathons"]
+ interests: ["Hiking🌱 ", "Frisbee", "Volunteer", "Baking", "A Big Foodie", "Hackathons😄 "]
 }
+<!--
+**guoguoying2013/guoguoying2013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](https://github.com/guoguoying2013/githubBanner.png "Header")
+
+
 ```
 
 Here are some ideas to get you started:
