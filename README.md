@@ -1,4 +1,4 @@
-<img src="./banner-hello-world.png">
+<img src="./hello-world-banner.png">
 
 ## Hello World
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ying-guo-07219653/)
