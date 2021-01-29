@@ -19,12 +19,12 @@ const yingGuo = {
     },
  interests: ["Hiking🌱 ", "Frisbee", "Volunteer", "Baking", "A Big Foodie", "Hackathons😄 "]
 }
+
+```
+
 <!--
 **guoguoying2013/guoguoying2013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Header](https://github.com/guoguoying2013/githubBanner.png "Header")
-
-
-```
 
 Here are some ideas to get you started:
 
