@@ -15,7 +15,7 @@ const yingGuo = {
         },
         devOps: ["AWS", "Docker", "Nginx"],
         testing: ["Jest", "Enzyme", "K6", "Loader.IO", "New Relic"],
-        databases: ["MySQL", "PostgreSQL", "MongoDB", "Arango", "Redis"],
+        databases: ["MySQL", "PostgreSQL", "MongoDB", "Arango:avocado:", "Redis"],
     },
  interests: ["Hiking🌱 ", "Frisbee", "Volunteer", "Baking", "A Big Foodie", "Hackathons😄 "]
 }
