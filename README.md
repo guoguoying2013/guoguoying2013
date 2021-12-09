@@ -13,10 +13,10 @@ const yingGuo = {
             js: ["React", "React Hooks"],
         },
         backEnd: {
-            js: ["Node,js", "Express"],
+            js: ["Node,js", "Express", "gRPC"],
         },
         devOps: ["AWS", "Docker", "Nginx"],
-        testing: ["Jest", "Enzyme", "K6", "Loader.IO", "New Relic"],
+        testing: ["Jest", "Enzyme", "Mocha", "Chai", "K6", "Loader.IO", "New Relic", "Datadog"],
         databases: ["MySQL", "PostgreSQL", "MongoDB", "Arango", "Redis"],
     },
  interests: ["Hiking🌱 ", "Frisbee", "Volunteer", "Baking", "A Big Foodie", "Hackathons😄 "]
