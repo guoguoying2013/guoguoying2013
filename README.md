@@ -13,7 +13,7 @@ const yingGuo = {
             js: ["React", "React Hooks"],
         },
         backEnd: {
-            js: ["Node,js", "Express", "gRPC"],
+            js: ["Node.js", "Express", "gRPC"],
         },
         devOps: ["AWS", "Docker", "Nginx", "miniKube"],
         testing: ["Jest", "Enzyme", "Mocha", "Chai", "K6", "Loader.IO", "Datadog"],
