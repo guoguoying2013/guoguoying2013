@@ -7,7 +7,7 @@
 ```javascript
 const yingGuo = {
   pronouns: "she" | "her",
-  languages: [Javascript, HTML, CSS, Python],
+  languages: [Typescript, Javascript, HTML, CSS, Python],
   technologies: {
         frontEnd: {
             js: ["React", "React Hooks"],
@@ -15,9 +15,9 @@ const yingGuo = {
         backEnd: {
             js: ["Node,js", "Express", "gRPC"],
         },
-        devOps: ["AWS", "Docker", "Nginx"],
-        testing: ["Jest", "Enzyme", "Mocha", "Chai", "K6", "Loader.IO", "New Relic", "Datadog"],
-        databases: ["MySQL", "PostgreSQL", "MongoDB", "Arango", "Redis"],
+        devOps: ["AWS", "Docker", "Nginx", "miniKube"],
+        testing: ["Jest", "Enzyme", "Mocha", "Chai", "K6", "Loader.IO", "Datadog"],
+        databases: ["PostgreSQL", "MySQL", "MongoDB", "Arango", "Redis"],
     },
  interests: ["Hiking🌱 ", "Frisbee", "Volunteer", "Baking", "A Big Foodie", "Hackathons😄 "]
 }
